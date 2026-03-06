@@ -89,7 +89,3 @@ Astfel, programul parcurge toate comenzile, actualizează stocul produselor și 
 
 - `output_comenzi.txt` – detalii despre comenzile fiecărui client
 - `output_stoc_ramas.txt` – stocul rămas după procesarea comenzilor
-=======
-# gestionare_magazin
-Proiect C++ pentru gestionarea datelor unui magazin
->>>>>>> ca65489e16b780709592cc3c4df7fad26bd8582b
