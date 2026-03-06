@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Gestionarea Datelor unui Magazin
 
 ## Student
